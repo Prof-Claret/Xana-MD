@@ -1,20 +1,21 @@
-# FELICE-MD
+# 🚀 XANA-MD By Claretiano
 
-Base Bot WhatsApp (Case)
+> **A Next-Gen Futuristic WhatsApp Bot**
 
+---
 
-## Run Locally
+## 🌐 Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/NCTea/Felice-MD
+  git clone https://github.com/Claretiano/Xana-MD
 ```
 
 Go to the project directory
 
 ```bash
-  cd Felice-MD
+  cd Xana-MD
 ```
 
 Install dependencies
@@ -23,7 +24,7 @@ Install dependencies
   npm install
 ```
 
-Install dependencies **recommended**
+Install dependencies **(recommended)**
 ```bash
  npm install --force
 ```
@@ -34,25 +35,25 @@ Start the server
   npm start
 ```
 
+---
 
+## 🚀 Features
 
+- **Try And You ill be Know**
 
-## Features
+---
 
-- Menu
+## 🙏 Special Thanks To
 
+This project is supported by:
 
-## Thanks to
+- **The Universe** 🌌
+- **My Inspiration** 💡
+- **My Parent** 🛠️
+- **My Waifu Nishino Akane** 🤝
 
-This project is used by the following companies:
+---
 
-- My God
-- My Parent
-- XYZ Team
-- Me
+## 📝 Authors
 
-
-## Authors
-
-- [@NCTea](https://github.com/NCTea)
-
+- [@Claretiano](https://github.com/Claretiano)
